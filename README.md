@@ -1,4 +1,4 @@
-# GroceyCenter
+## GroceyCenter
 GroceryCenter Project is a demonstration project of E-commerce app with Mysql Database connectivity and Json Web Token based authentication.
 
 Language Used : Java,
